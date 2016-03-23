@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shadowrocket "
+title: "Shadowrocket 设置教程"
 date: "2016-03-23 12:08:51 +0800"
 categories: gfw
 published: true
@@ -34,7 +34,7 @@ published: true
 [3]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/3.jpg
 [4]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/4.jpg
 [5]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/5.jpg
-[6]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/6.jpg
+[6]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/6.PNG
 [7]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/7.PNG
 [8]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/8.PNG
 [9]: https://raw.githubusercontent.com/zgli1980/zgli1980.github.io/master/_src/20160323_shadowrocket/9.PNG

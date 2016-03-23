@@ -1,5 +1,9 @@
-Ace's Home    
-
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2016-03-23 12:08:51 +0800
+categories: jekyll update
+---
 
 ### 写在前面    
 首先你需要一个Shadowsocks账号，这个软件基本上是一个本地代理（类似Surge），通过事先写好的规则‘自动’判断网络流量走向（shadowsocks加密通道（爬墙通道），服务加速通道（apple），直接连接）

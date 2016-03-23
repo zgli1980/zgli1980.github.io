@@ -22,7 +22,7 @@ published: true
 
 5. 我们需要确认一些配置文件是否正确加载了，点击Modify Config...，确认是否是你的配置文件。![verify][4]     
 
-6. 回到上一界面，进入Proxy设置，把logging打开。![log][5]    
+6. 回到上一界面，进入Proxy设置，把logging打开。![log][5]  
 
 7. 这样Surge规则配置就OK了，下面我们来设置Shadowsocks，回到主界面，点击右上角+号进入Shadowsocks配置界面![ss config][9]     按下图填入服务器信息![ss server][6]    
 

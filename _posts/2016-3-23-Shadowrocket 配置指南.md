@@ -24,6 +24,6 @@ published: true
 
 6. 回到上一界面，进入Proxy设置，把logging打开。![log]({{site.baseurl}}/_src/20160323_shadowrocket/5.jpg)  
 
-7. 这样Surge规则配置就OK了，下面我们来设置Shadowsocks，回到主界面，点击右上角+号进入Shadowsocks配置界面[6]({{site.baseurl}}/_src/20160323_shadowrocket/6.jpg),按下图填入服务器信面![6]({{site.baseurl}}/_src/20160323_shadowrocket/6.jpg)
+7. 这样Surge规则配置就OK了，下面我们来设置Shadowsocks，回到主界面，点击右上角+号进入Shadowsocks配置界面![9]({{site.baseurl}}/_src/20160323_shadowrocket/9.PNG)   按下图填入服务器信息![6]({{site.baseurl}}/_src/20160323_shadowrocket/6.jpg)
 
 8. 接下来打开VPN开关，尽情享受自由的互联网吧。

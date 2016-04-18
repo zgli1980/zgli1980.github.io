@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shadowrocket 设置教程"
+title: "Shadowrocket 设置教程 (Updated, for 2.0.5)"
 date: "2016-04-18 15:22:51 +0800"
 categories: gfw
 published: true

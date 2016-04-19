@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Ace's property ... founded on 2016-3-23
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zgli1980.github.com" # the base hostname & protocol for your site
-twitter_username: zgli1980
+#twitter_username: zgli1980
 github_username:  zgli1980
 
 # Build settings
